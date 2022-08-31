@@ -1,0 +1,15 @@
+/Users/zhunt/Desktop/VS Code Projects/Word Guessing Game/Word-Guessing-Game/bin/Debug/net6.0/Word-Guessing-Game
+/Users/zhunt/Desktop/VS Code Projects/Word Guessing Game/Word-Guessing-Game/bin/Debug/net6.0/Word-Guessing-Game.deps.json
+/Users/zhunt/Desktop/VS Code Projects/Word Guessing Game/Word-Guessing-Game/bin/Debug/net6.0/Word-Guessing-Game.runtimeconfig.json
+/Users/zhunt/Desktop/VS Code Projects/Word Guessing Game/Word-Guessing-Game/bin/Debug/net6.0/Word-Guessing-Game.dll
+/Users/zhunt/Desktop/VS Code Projects/Word Guessing Game/Word-Guessing-Game/bin/Debug/net6.0/Word-Guessing-Game.pdb
+/Users/zhunt/Desktop/VS Code Projects/Word Guessing Game/Word-Guessing-Game/obj/Debug/net6.0/Word-Guessing-Game.csproj.AssemblyReference.cache
+/Users/zhunt/Desktop/VS Code Projects/Word Guessing Game/Word-Guessing-Game/obj/Debug/net6.0/Word-Guessing-Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhunt/Desktop/VS Code Projects/Word Guessing Game/Word-Guessing-Game/obj/Debug/net6.0/Word-Guessing-Game.AssemblyInfoInputs.cache
+/Users/zhunt/Desktop/VS Code Projects/Word Guessing Game/Word-Guessing-Game/obj/Debug/net6.0/Word-Guessing-Game.AssemblyInfo.cs
+/Users/zhunt/Desktop/VS Code Projects/Word Guessing Game/Word-Guessing-Game/obj/Debug/net6.0/Word-Guessing-Game.csproj.CoreCompileInputs.cache
+/Users/zhunt/Desktop/VS Code Projects/Word Guessing Game/Word-Guessing-Game/obj/Debug/net6.0/Word-Guessing-Game.dll
+/Users/zhunt/Desktop/VS Code Projects/Word Guessing Game/Word-Guessing-Game/obj/Debug/net6.0/refint/Word-Guessing-Game.dll
+/Users/zhunt/Desktop/VS Code Projects/Word Guessing Game/Word-Guessing-Game/obj/Debug/net6.0/Word-Guessing-Game.pdb
+/Users/zhunt/Desktop/VS Code Projects/Word Guessing Game/Word-Guessing-Game/obj/Debug/net6.0/Word-Guessing-Game.genruntimeconfig.cache
+/Users/zhunt/Desktop/VS Code Projects/Word Guessing Game/Word-Guessing-Game/obj/Debug/net6.0/ref/Word-Guessing-Game.dll
